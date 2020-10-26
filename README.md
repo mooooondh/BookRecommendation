@@ -33,7 +33,7 @@ https://www.kaggle.com/bahramjannesarr/goodreads-book-datasets-10m
 사용자가 매긴 평점이다. 'This user doesn't have any rating', 'did not like it', 'it was ok', 'liked it', 'really liked it', 'it was amazing'로 구성되어있다.                       
 문자열은 사용하기 불편하기에 각각 0, 1, 2, 3, 4, 5점으로 치환했다.       
 평점 구성
-<img ars= "(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbhJmy4%2FbtqLIInEFww%2FaeBkHvpRPmi4pKt7ZnOzIk%2Fimg.png"></img>                     
+<img ars= "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbhJmy4%2FbtqLIInEFww%2FaeBkHvpRPmi4pKt7ZnOzIk%2Fimg.png"></img>                     
                  
 4.도서 추천 알고리즘 개발
 ------------------------------------------
